@@ -5,8 +5,10 @@
 An article has been created in our Content product. You can retrieve the JSON representation using 
 the API url:
 
-* [Content URL](https://content-eu-4.content-cms.com/api/859f2008-a40a-4b92-afd0-
-24bb44d10124/delivery/v1/content/db4930e9-7504-4d9d-ae6c-33facca754d1)
+* [Content URL]()
+
+* [https://content-eu-4.content-cms.com/api/859f2008-a40a-4b92-afd0-24bb44d10124/delivery/v1/content/db4930e9-7504-4d9d-ae6c-33facca754d1](https://content-eu-4.content-cms.com/api/859f2008-a40a-4b92-afd0-24bb44d10124/delivery/v1/content/db4930e9-7504-4d9d-ae6c-33facca754d1).
+
 
 The Article includes elements represented within the JSON:
 * heading
@@ -14,6 +16,13 @@ The Article includes elements represented within the JSON:
 * author
 * date
 * body
+
+The coding activity:
+* Using React, retrieve the content item (e.g. using the URL) and render the article elements within your single page application.
+* You are free to design layout/styles and libraries in your SPA.
+* Make it look simple, clean and easy to consume by a user.
+* Code nicely. Think about error cases and tests, we expect it to be a production ready application.
+* You can send us repo link or a zip file. Most of all, Have fun!
 ## Project Architecture:
 
 * This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
