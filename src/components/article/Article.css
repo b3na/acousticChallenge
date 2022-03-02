@@ -1,0 +1,9 @@
+.article-date{
+  --bs-text-opacity: 1;
+    color: #6c757d !important;
+    font-style: italic !important;
+}
+
+.body-container{
+  margin: 10px;
+}
